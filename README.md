@@ -10,7 +10,7 @@ Hey, my name is Iryna 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-pukas-43714b271/)
 
 # 💻 Skills:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-3670A0?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-3670A0?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-3670A0?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-3670A0?style=for-the-badge&logo=numpy&logoColor=white)
 
 
 
