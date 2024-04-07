@@ -8,7 +8,7 @@ Hey, my name is Iryna 👋
 🚀 Despite having finished the master, I'm constantly learning, solidifying obtained knowledge and using it in practical cases.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-pukas-43714b271/)
-![Tableau](https://img.shields.io/badge/Tableau-blue?style=plastic&logo=tableau&logoColor=white)(https://public.tableau.com/app/profile/iryna.pukas/vizzes)
+[![Tableau](https://img.shields.io/badge/Tableau-blue?style=plastic&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/iryna.pukas/vizzes/)
 
 # 💻 Skills:
 ![Python](https://img.shields.io/badge/Python-283618?style=for-the-badge&logo=python&logoColor=white)
