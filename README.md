@@ -8,14 +8,19 @@ Hey, my name is Iryna 👋
 🚀 Despite having finished the master, I'm constantly learning, solidifying obtained knowledge and using it in practical cases.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-pukas-43714b271/)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=plastic&logo=tableau&logoColor=white)(https://public.tableau.com/app/profile/iryna.pukas/vizzes)
 
 # 💻 Skills:
-![Python](https://img.shields.io/badge/PYTHON-d0d9f7?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/PANDAS-d0d9f7?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NUMPY-d0d9f7?style=for-the-badge&logo=numpy)
-![Seaborn](https://img.shields.io/badge/SEABORN-d0d9f7?style=for-the-badge&logo=data:https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png)
-![Plotly](https://img.shields.io/badge/PLOTLY-d0d9f7?style=for-the-badge&logo=plotly)
-![MySQL](https://img.shields.io/badge/MYSQL-d0d9f7?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-283618?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-283618?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-283618?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-283618?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-283618?style=for-the-badge&logo=Plotly&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-283618?style=for-the-badge&logo=Selenium&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-283618?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-283618?style=for-the-badge&logo=keras&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-283618?style=for-the-badge&logo=MySQL&logoColor=white)
+![Tableau](https://img.shields.io/badge/tableau-283618?style=for-the-badge&logo=tableau&logoColor=white)
 
 
 
