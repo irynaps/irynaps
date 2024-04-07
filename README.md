@@ -16,8 +16,8 @@ Hey, my name is Iryna 👋
 ![Pandas](https://img.shields.io/badge/Pandas-000C66?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-000C66?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-000C66?style=for-the-badge&logo=Plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-000C66?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-000C66?style=for-the-badge&logo=Selenium&logoColor=white)
-
 ![TensorFlow](https://img.shields.io/badge/tensorflow-000C66?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-000C66?style=for-the-badge&logo=keras&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000C66?style=for-the-badge&logo=MySQL&logoColor=white)
